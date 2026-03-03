@@ -1,14 +1,4 @@
-/**
- * OOPSBannerApp UC6 - Refactor Banner Logic into Static Functions
- *
- * This use case extends UC5 by creating helper methods
- * for each character pattern (O, P, S).
- *
- * @author Developer
- * @version 6.0
- */
-
-public class OOPSBannerApp {
+public class UC6 {
 
     public static void main(String[] args) {
 
